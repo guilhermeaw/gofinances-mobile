@@ -16,7 +16,7 @@
     "@react-navigation/stack": "^5.2.16",
     "@unform/core": "^2.1.0",
     "@unform/mobile": "^2.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "intl": "^1.2.5",
     "react": "16.11.0",
     "react-input-mask": "^2.0.4",
